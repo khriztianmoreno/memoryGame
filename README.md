@@ -1,6 +1,10 @@
-# Memory Card Game
+# Memory Card Game 🧠🎮🃏
 
-A memory game created using Expo for React Native.
+A memory game created using Expo for React Native. 🧠🎮⚛️
+
+<p align="center">
+  <img alt="GraphQL Data in React with Apollo Client" src="./.readme-static/memoryGame.png" width="300" />
+</p>
 
 ## **Start developing.**
 
