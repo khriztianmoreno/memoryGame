@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "🧠🎮⚛️ A memory game created using Expo for React Native. ",
+    "githubUrl": "https://github.com/khriztianmoreno/memoryGame"
   }
 }
